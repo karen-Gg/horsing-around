@@ -1,3 +1,3 @@
 # Horsing Around
 
-An example project for Predoc Week.
+In Markdown, I can make __bold text__ with two underscores.
